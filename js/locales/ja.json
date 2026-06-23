@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "Aspect Ratio Calculator",
+    "description": "Calculate aspect ratios, missing dimensions, and common video or social media sizes instantly."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
